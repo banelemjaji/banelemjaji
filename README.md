@@ -9,6 +9,7 @@ IT graduate with a Diploma in Information Technology in Software Development, cu
 * 🌍  I'm based in Durban, KZN.
 * ✉️  You can contact me at [banelemjaji@gmail.com](mailto:banelemjaji@gmail.com)
 * 🧠  I'm learning Flutter and Dart.
+* 🚀  I'm currently working on [Bus Application](http://github.com/banelemjaji/bus-system)
 
 ### Skills
 
